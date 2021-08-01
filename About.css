@@ -11,15 +11,15 @@
 }
 
 .u-section-1 .u-container-layout-1 {
-  padding: 30px;
+  padding: 0;
 }
 
 .u-section-1 .u-image-1 {
-  width: 300px;
-  height: 300px;
-  background-image: url("images/profile.JPG");
+  width: 424px;
+  height: 424px;
+  background-image: url("images/profile1.jpg");
   background-position: 50% 50%;
-  margin: 0 auto;
+  margin: -2px auto;
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -50,6 +50,11 @@
     min-height: 346px;
   }
 
+  .u-section-1 .u-image-1 {
+    width: 360px;
+    height: 360px;
+  }
+
   .u-section-1 .u-layout-cell-2 {
     min-height: 346px;
   }
@@ -61,8 +66,8 @@
   }
 
   .u-section-1 .u-image-1 {
-    width: 216px;
-    height: 216px;
+    width: 276px;
+    height: 276px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -71,11 +76,6 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
   .u-section-1 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;

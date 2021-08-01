@@ -9,14 +9,17 @@
 .u-section-1 .u-group-1 {
   width: 595px;
   min-height: 173px;
+  animation-duration: 1000ms;
   margin: 42px 208px 42px auto;
 }
 
 .u-section-1 .u-text-1 {
+  font-size: 1.125rem;
   margin: 0 129px 0 0;
 }
 
 .u-section-1 .u-text-2 {
+  font-size: 1.125rem;
   margin: 21px 0 0;
 }
 
