@@ -1,13 +1,14 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 349px;
+  min-height: 632px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin: 60px auto 60px 0;
+  margin-top: -13px;
+  margin-bottom: 0;
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 420px;
+  min-height: 645px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -19,21 +20,30 @@
   height: 424px;
   background-image: url("images/profile1.jpg");
   background-position: 50% 50%;
-  margin: -2px auto;
+  margin: 118px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 47px auto 0 112px;
+  padding: 8px 31px 8px 29px;
 }
 
 .u-section-1 .u-layout-cell-2 {
-  min-height: 420px;
+  min-height: 645px;
 }
 
 .u-section-1 .u-container-layout-2 {
-  padding: 30px;
+  padding: 0 23px;
 }
 
 .u-section-1 .u-text-1 {
-  font-family: Allan;
-  font-size: 1.125rem;
-  margin: 96px 0 0;
+  margin: 0 0 0 14px;
 }
 
 @media (max-width: 1199px) {
@@ -41,13 +51,8 @@
     min-height: 26px;
   }
 
-  .u-section-1 .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
-  }
-
   .u-section-1 .u-layout-cell-1 {
-    min-height: 346px;
+    min-height: 532px;
   }
 
   .u-section-1 .u-image-1 {
@@ -55,8 +60,16 @@
     height: 360px;
   }
 
+  .u-section-1 .u-btn-1 {
+    margin-left: 36px;
+  }
+
   .u-section-1 .u-layout-cell-2 {
-    min-height: 346px;
+    min-height: 532px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
   }
 }
 
@@ -68,6 +81,10 @@
   .u-section-1 .u-image-1 {
     width: 276px;
     height: 276px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
   }
 
   .u-section-1 .u-layout-cell-2 {

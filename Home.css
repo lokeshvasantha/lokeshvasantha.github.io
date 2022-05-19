@@ -33,7 +33,7 @@
     font-weight: normal;
   }
 }.u-section-2 {
-  background-image: linear-gradient(#f1b5b8, #f9e79b);
+  background-image: none;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -43,6 +43,7 @@
 .u-section-2 .u-text-1 {
   font-size: 1.875rem;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  text-transform: uppercase;
   margin: 17px 20px 26px;
 }
 
